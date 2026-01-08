@@ -252,3 +252,5 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 ![or berhasil](https://github.com/user-attachments/assets/ec95c11a-175c-41d7-8cf0-7a9623efafba)
 - Login ' or '1'='1 Gagal
 ![or gagal](https://github.com/user-attachments/assets/444101d8-73d4-4d87-a1ce-e784b0e8a2bd)
+- REPORTS HOSTEDSCAN
+[2026-01-08 sraysany-at-gmail-com-s organization report.pdf](https://github.com/user-attachments/files/24485962/2026-01-08.sraysany-at-gmail-com-s.organization.report.pdf)
